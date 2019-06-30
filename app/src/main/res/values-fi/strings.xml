@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Asetukset</string>
+    <string name="app_name">Tehtävälista</string>
+    <string name="body">Sisältö</string>
+    <string name="save">Tallenna</string>
+    <string name="title">Otsikko</string>
+    <string name="dialog_title">Tehtävä lisätty</string>
+    <string name="dialog_message">Jatka etusivulle</string>
+</resources>
